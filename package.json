@@ -1,19 +1,17 @@
 {
-  "name": "nodejs",
+  "name": "itm-full-stack-be",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-   "dev": "Not Index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
-  },
-  "devDependencies": {
-    "nodeman": "^1.1.2"
+    "axios": "^1.10.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
